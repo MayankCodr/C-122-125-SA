@@ -1,0 +1,27 @@
+.note{
+    background-color: red;
+    color: white;
+    border-radius: 3px;
+    box-shadow: 5px 5px 5px grey;
+    width: 100%;
+    margin: 0px;
+}
+.copy_right_footer{
+    position: fixed;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    bottom: 0;
+}
+h1{
+    background: rgb(244,81,81);
+background: linear-gradient(0deg, rgba(244,81,81,1) 32%, rgba(114,89,241,1) 80%);
+color: white;
+margin: 0px;
+padding-bottom: 8px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 3px;
+    box-shadow: 5px 5px 5px grey;
+}
